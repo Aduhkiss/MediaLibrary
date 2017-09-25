@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PriceHandler()
+comment1.params=song
+comment1.target=int\ getSongPrice(Song)
+comment2.params=movie
+comment2.target=int\ getMoviePrice(Movie)
+comment3.params=book
+comment3.target=int\ getBookPrice(Book)
+comment4.params=song\ pri
+comment4.target=void\ setSongPrice(Song,\ int)
+comment5.params=movie\ pri
+comment5.target=void\ setMoviePrice(Movie,\ int)
+comment6.params=book\ pri
+comment6.target=void\ setBookPrice(Book,\ int)
+numComments=7
